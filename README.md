@@ -1,29 +1,16 @@
 ##  Gophercises 🏋🏻‍♀️ 🎉
-
+---
 
 - Git repo with all custom solutions to Gophercises exercises 🏋
+- Yes, I do add tests! 🧡
 - Original course site [here](https://gophercises.com/)
 
 ---
+## Tracking Progress ⚡⚡⚡
 
-## What is Gophercises?
+Links to the repos with my custom solutions are here:
 
-Gophercises is a FREE course that will help you become more familiar with Go while developing your skills as a programmer. In the course we will build roughly 20 different mini-applications, packages, and tools that are each designed to teach you something different.
-
-In the course we learn about and practice using:
-```
-    Channels
-    Mutexes
-    Goroutines
-    Functional Options
-    Chaining Interfaces
-    Various parts of the standard library (io, time, and many other packages)
-    Reading input from the command line
-    And much much more!
-```
-
+- [x] [Exercise 1: Quiz Game PT 1](https://github.com/rachelwritingcode/quiz-game)
+- [ ] Exercise 1: Quiz Game PT 2
 
 ---
-## Tracking Progress
-
-- [ ] Exercise 1: Quiz Game 
